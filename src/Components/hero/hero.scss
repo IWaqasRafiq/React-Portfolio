@@ -23,12 +23,12 @@
                 letter-spacing: 10px;
             }
             h1{
-                font-size: 88px;
-                line-height: 90px;
+                font-size: 80px;
+                line-height: 80px;
             }
             .buttons{
                 button{
-                    padding: 17px;
+                    padding: 14px;
                     border: 1px solid white;
                     border-radius: 10px;
                     background-color: transparent;
@@ -40,7 +40,7 @@
             }
 
             img{
-                width: 50px;
+                width: 40px;
             }
         }
 
@@ -56,9 +56,12 @@
 
     .slidingContainer{
         position: absolute;
-        font-size: 50vh;
-        bottom: -96px;
+        font-size: 40vh;
+        bottom: -67px;
         white-space: nowrap;
         color: #ffffff09;
+        width: 50%;
+        font-weight: bold;
+
     }
 }
